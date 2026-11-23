@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+data/
+*.csv
